@@ -1,0 +1,36 @@
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/appsettings.Development.json
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/appsettings.json
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/First API.deps.json
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/First API.runtimeconfig.json
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/First API.runtimeconfig.dev.json
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/First API.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/ref/First API.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/First API.pdb
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emilybailey/RiderProjects/First API/First API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.csprojAssemblyReference.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.AssemblyInfoInputs.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.AssemblyInfo.cs
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.csproj.CoreCompileInputs.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.MvcApplicationPartsAssemblyInfo.cs
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.MvcApplicationPartsAssemblyInfo.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/staticwebassets/First API.StaticWebAssets.Manifest.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/staticwebassets/First API.StaticWebAssets.xml
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/scopedcss/bundle/First API.styles.css
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.RazorTargetAssemblyInfo.cache
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.csproj.CopyComplete
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.dll
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/ref/First API.dll
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.pdb
+/Users/emilybailey/RiderProjects/First API/First API/obj/Debug/net5.0/First API.genruntimeconfig.cache
